@@ -1,5 +1,5 @@
 
-import React, { Component } from 'react'
+import React from 'react'
 import NavBar1 from './Project1/Components/NavBarComp/Pages/NavBar1'
 
 const App = () => {
