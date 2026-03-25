@@ -20,4 +20,5 @@ If you are developing a production application, we recommend using TypeScript wi
 <img width="1669" height="568" alt="image" src="https://github.com/user-attachments/assets/aa16732e-002d-4d66-a8a9-168937dc9171" />
 <img width="878" height="678" alt="image" src="https://github.com/user-attachments/assets/3a217d83-4016-4c4b-8bdf-fbb5161983b7" />
 <img width="1836" height="647" alt="image" src="https://github.com/user-attachments/assets/cff58c5f-129f-4f0f-80bb-66cd6d2f61f2" />
-<img width="674" height="611" alt="image" src="https://github.com/user-attachments/assets/5561d10a-b3eb-4bab-a965-89d5acdd4d91" />
+<img width="1274" height="921" alt="image" src="https://github.com/user-attachments/assets/35bda3c3-2c3b-4127-bfdf-37a3c7005bdc" />
+
